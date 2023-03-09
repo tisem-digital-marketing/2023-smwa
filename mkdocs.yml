@@ -1,4 +1,4 @@
-site_name: Social Media & Web Analytics @ TiSEM, 2022
+site_name: Social Media & Web Analytics @ TiSEM, 2023
 
 nav:
   - Home: index.md
@@ -21,7 +21,6 @@ nav:
     - Week 7: classes/week_07.md
   - Assessment:
     - Summary: assessment/summary.md 
-    # - Final Project: assessment/final_project.md
     - Technical Assignments: assessment/group_assignment.md
     - Presentations: assessment/presentations.md
     - Final Exam: assessment/exam.md
@@ -49,4 +48,4 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/tisem-digital-marketing
     - icon: fontawesome/brands/slack
-      link: https://tisem-smwa-2022.slack.com
+      link: https://tisem-smwa-2023.slack.com
