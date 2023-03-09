@@ -21,8 +21,8 @@ nav:
     - Week 7: classes/week_07.md
   - Assessment:
     - Summary: assessment/summary.md 
-    - Technical Assignments: assessment/group_assignment.md
-    - Presentations: assessment/presentations.md
+    - Group Assignments: assessment/group_assignment.md
+    # - Presentations: assessment/presentations.md
     - Final Exam: assessment/exam.md
   - Code of Conduct:
     - Social Rules: conduct/social_rules.md
