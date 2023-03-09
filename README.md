@@ -1,14 +1,14 @@
-# Course Website: Social Media and Web Analytics, 2022-TiSEM
+# Course Website: Social Media and Web Analytics, 2023-TiSEM
 
-[![Publish docs via GitHub Pages](https://github.com/tisem-digital-marketing/2021-smwa/actions/workflows/deploy.yml/badge.svg)](https://github.com/tisem-digital-marketing/2021-smwa/actions/workflows/deploy.yml)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6624035.svg)](https://doi.org/10.5281/zenodo.6624035)
+[![Publish docs via GitHub Pages](https://github.com/tisem-digital-marketing/2021-smwa/actions/workflows/deploy.yml/badge.svg)](https://github.com/tisem-digital-marketing/2023-smwa/actions/workflows/deploy.yml)
+<!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6624035.svg)](https://doi.org/10.5281/zenodo.6624035) -->
 
 ## Meta-Information
 
 *   Module Maintainer: Lachlan Deer (`@lachlandeer`)
-*   Course: [Social Media and Web Analytics](https://catalogus.tilburguniversity.edu/osiris_student_tiuprd/OnderwijsCatalogusSelect.do?selectie=cursus&collegejaar=2021&taal=en&cursus=300459-M-6)
+*   Course: [Social Media and Web Analytics](https://catalogus.tilburguniversity.edu/osiris_student_tiuprd/OnderwijsCatalogusSelect.do?selectie=cursus&collegejaar=2022&taal=en&cursus=300459-M-6)
 *   Institute: TiSEM
-*   Current Version: [2022](https://tisem-digital-marketing.github.io/2022-smwa)
+*   Current Version: [2022](https://tisem-digital-marketing.github.io/2023-smwa)
 
 Alternatively, email us at: tisem_social_media 'AT' gmail 'DOT' com
 
@@ -48,15 +48,15 @@ More information is available [here](LICENSE.md)
 
 Please cite as: 
 
-Deer, Lachlan. (2022).
+Deer, Lachlan. (2023).
 "Social Media and Web Analytics".
-April 2022 (Version v2022.0.0). url = https://tisem-digital-marketing.github.io/2022-smwa
+April 2023 (Version v2023.0.0). url = https://tisem-digital-marketing.github.io/2023-smwa
 
 ```
-@misc{smwa2022,
+@misc{smwa2023,
       title={"Social Media and Web Analytics"},
       author={Lachlan Deer},
-      year={2022},
-      url = "https://tisem-digital-marketing.github.io/2022-smwa"
+      year={2023},
+      url = "https://tisem-digital-marketing.github.io/2023-smwa"
 }
 ```
