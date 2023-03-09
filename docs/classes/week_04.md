@@ -4,8 +4,8 @@
 
 Parts of these readings and themes from them will be covered in the video lecture.
 
-<!-- * [Online Word of Mouth and the Performance of New Products][deer] -->
-<!-- * [Does Online Word-of-Mouth Increase Demand? (and How?) Evidence from a Natural Experiment][seiler] -->
+* [Online Word of Mouth and the Performance of New Products][deer]
+* [Does Online Word-of-Mouth Increase Demand? (and How?) Evidence from a Natural Experiment][seiler]
 
 ## Video Lecture
 
