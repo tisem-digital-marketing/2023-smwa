@@ -14,28 +14,36 @@ This book is a "go-to" for text analytics:
 
 ## Video Lecture
 
-:fontawesome-brands-youtube: [Videos](https://www.youtube.com/watch?v=I6HYQQ0pE1A&list=PL9QkA7C7GRGUVdQYaesNe_qnYcNrXLuAe)
+Coming Soon
 
-* [Weekly Overview][week-overview]
-* [Slides][lecture-slides-06]
+<!-- :fontawesome-brands-youtube: [Videos](https://www.youtube.com/watch?v=I6HYQQ0pE1A&list=PL9QkA7C7GRGUVdQYaesNe_qnYcNrXLuAe) -->
+
+<!-- * [Weekly Overview][week-overview] -->
+<!-- * [Slides][lecture-slides-06] -->
 <!-- * Videos coming Tuesday -->
 <!-- * Videos as a [playlist](https://www.youtube.com/playlist?list=PL9QkA7C7GRGXgdNurrsgBJwyY8d91PaMy) -->
 
 ## Computing Lecture
 
-* Topic Modeling
-    * Starting code: [here](https://github.com/tisem-digital-marketing/smwa-computing-lecture-text-topics)
-    * Final code + extras: [here](https://github.com/tisem-digital-marketing/smwa-computing-lecture-text-topics/tree/instructor)
+Coming Soon
+
+<!-- * Topic Modeling -->
+<!-- * Starting code: [here](https://github.com/tisem-digital-marketing/smwa-computing-lecture-text-topics) -->
+<!-- * Final code + extras: [here](https://github.com/tisem-digital-marketing/smwa-computing-lecture-text-topics/tree/instructor) -->
 
 ## Lab Section
 
-* Group Presentations
-* Review of Lab Assignment 5
+Coming Soon
+
+<!-- * Group Presentations -->
+<!-- * Review of Lab Assignment 5 -->
 
 ## Lab Assignment
 
-* [Link][lab-06] to GitHub repository 
-* [Partial Solutions][lab-06-s]
+Coming Soon
+
+<!-- * [Link][lab-06] to GitHub repository  -->
+<!-- * [Partial Solutions][lab-06-s] -->
 
 [tellis]: https://journals.sagepub.com/doi/10.1177/0022242919841034
 [borah]: https://journals.sagepub.com/doi/full/10.1177/0022242919899383

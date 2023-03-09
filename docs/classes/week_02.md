@@ -17,22 +17,29 @@ We'll need some concepts from Linear Regression to work through the Lab & unders
 
 ## Video Lecture
 
-:fontawesome-brands-youtube: [Videos](https://www.youtube.com/watch?v=bRGQ-JeNz4w&list=PL9QkA7C7GRGX6llNC5XQmfa7IDAOZGrT3)
+Coming Soon
 
-* [Weekly Overview][week-overview]
-* [Slides: Causality and Difference in Differences][lecture-slides-02]
+<!-- :fontawesome-brands-youtube: [Videos](https://www.youtube.com/watch?v=bRGQ-JeNz4w&list=PL9QkA7C7GRGX6llNC5XQmfa7IDAOZGrT3) -->
+
+<!-- * [Weekly Overview][week-overview]
+* [Slides: Causality and Difference in Differences][lecture-slides-02] -->
 <!-- * Videos as a [playlist](https://www.youtube.com/watch?v=rgMEMeiGETk&list=PL9QkA7C7GRGWAnmrkW5cFjbN-kkqWuVrX) -->
+
+## Computing Lecture 
+
+Coming Soon
 
 ## Lab Section
 
-* Group Presentations
-* Review of Lab Assignment 1
+Coming Soon.
 
 ## Lab Assignment
 
-* [Link][lab-02] to GitHub repository 
+Coming Soon 
+
+<!-- * [Link][lab-02] to GitHub repository 
     * Questions with an answer template contained in repo
-* [Partial Solutions][lab-02-s]
+* [Partial Solutions][lab-02-s] -->
 
 [goldfarb-tucker]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2420920
 

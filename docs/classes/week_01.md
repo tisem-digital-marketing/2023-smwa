@@ -7,14 +7,18 @@ Parts of these readings and themes from them will be covered in the video lectur
 * [Intrinsic vs. image-related utility in social media: Why do people contribute content to twitter?][stephan-toubia]
 * [Seeking the support of the silent majority: are lurking users valuable to UGC platforms?][chen-etal]
 
+<!---
 These notes provide the background reading to work through the Lab Assignment.
 
 * [A First Introduction to Networks with R][lecture-networks]
     * [The Dataset][lecture-networks-data]
 * [Introduction to the Twitter API and rtweet][lecture-rtweet]
+---> 
 
 ## Video Lectures
 
+Coming Soon
+<!---
 :fontawesome-brands-youtube: [Videos](https://www.youtube.com/watch?v=g2eUMLYN2vo&list=PL9QkA7C7GRGWQZZNWS5rNMXJ3L_xxz5dH)
 
 Slides:
@@ -26,26 +30,28 @@ Slides:
 
 ## Live Lecture
 
-* Course Introduction ([slides][course-intro])
-    <!-- - To be posted closer to course start date -->
+* Course Introduction <!---([slides][course-intro]) --->
+    - To be posted closer to course start date
 
 ## Lab Section
 
 We'll cover the following:
 
-<!-- * Getting to know each other -->
-* Tips for Group Presentations
+* Getting to know each other
 * Getting course material from GitHub
-* Accessing and Visualizing Twitter Data (GitHub repo [here][smwa-cl01])
-    * Instructor Code (GitHub repo [here][smwa-cl01-ans])
+* Visualizing Twitter Data <!---(GitHub repo [here][smwa-cl01]) --->
+    * Instructor Code (GitHub repo <!---[here][smwa-cl01-ans]) --->
 
 ## Lab Assignment
+Coming Soon
 
+<!-- 
 **Topic**: Collecting Social Media Data and Visualizing Social Media Networks
-
+--->
 <!-- * [PDF][lab-01-q] -->
+<!---
 * [Link][lab-01-gh] to GitHub repo
-* [Suggested Solutions][lab-01-s]
+* [Suggested Solutions][lab-01-s] -->
 
 ## Additional Readings
 

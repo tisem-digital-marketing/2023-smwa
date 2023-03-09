@@ -19,25 +19,25 @@ Note: codes from these readings may use different packages or software.
 
 ## Video Lecture
 
-:fontawesome-brands-youtube: [Videos](https://www.youtube.com/watch?v=voNtfUYblPk&list=PL9QkA7C7GRGX8Jz08HCs10shaj_Ui-zGa)
+<!-- :fontawesome-brands-youtube: [Videos](https://www.youtube.com/watch?v=voNtfUYblPk&list=PL9QkA7C7GRGX8Jz08HCs10shaj_Ui-zGa) -->
 
-* [Weekly Overview][week-overview]
-* [Slides][lecture-slides-07]
+<!-- * [Weekly Overview][week-overview] -->
+<!-- * [Slides][lecture-slides-07] -->
 
 <!-- * [Slides][lecture-slides-07]
 * Videos as a [playlist](https://www.youtube.com/playlist?list=PL9QkA7C7GRGV7IX9hxDS_xYRDX4_4-QOg) -->
 
 ## Computer Lecture
 
-* Measuring Influence in a Network
-    * Starting Code: [here](https://github.com/tisem-digital-marketing/smwa-computing-lecture-networks)
-    * Instructor's code: [here](https://github.com/tisem-digital-marketing/smwa-computing-lecture-networks/tree/instructor)
-* Course Summary ([slides][course-summary])
+<!-- * Measuring Influence in a Network -->
+<!-- * Starting Code: [here](https://github.com/tisem-digital-marketing/smwa-computing-lecture-networks) -->
+<!-- * Instructor's code: [here](https://github.com/tisem-digital-marketing/smwa-computing-lecture-networks/tree/instructor) -->
+<!-- * Course Summary ([slides][course-summary]) -->
 
 ## Lab Section
 
-* Group Presentations
-* Review of Lab Assignment 6
+<!-- * Group Presentations -->
+<!-- * Review of Lab Assignment 6 -->
 
 ## Lab Assignment
 

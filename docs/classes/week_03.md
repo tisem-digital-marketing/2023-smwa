@@ -15,25 +15,29 @@ This book is a "go-to" for text analytics:
 
 ## Video Lecture
 
-:fontawesome-brands-youtube: [Videos](https://www.youtube.com/watch?v=yAfmk5pdo3Y&list=PL9QkA7C7GRGWMs3VSegVwo1SriQ5NbrQ1)
+Coming Soon
+<!-- :fontawesome-brands-youtube: [Videos](https://www.youtube.com/watch?v=yAfmk5pdo3Y&list=PL9QkA7C7GRGWMs3VSegVwo1SriQ5NbrQ1) -->
 
-* [Weekly Overview][week-overview]
-* [Slides: Online Reputation][lecture-slides-03]
+<!-- * [Weekly Overview][week-overview] -->
+<!-- * [Slides: Online Reputation][lecture-slides-03] -->
 <!---* Videos as a [playlist](https://www.youtube.com/watch?v=X4c4-v1ZMeE&list=PL9QkA7C7GRGVPT7CpH90Y8Om79iA26grc) -->
 
 ## Computing Lecture
 
-* Intro to Text Analytics ([Git Hub Repo][computing-lecture])
-    * Code similar to what we did live in class [here][computing-lecture-solution]
+Coming Soon 
+<!-- * Intro to Text Analytics ([Git Hub Repo][computing-lecture]) -->
+<!-- * Code similar to what we did live in class [here][computing-lecture-solution] -->
 
 ## Lab Section
 
-* Group Presentations
-* Review of Lab Assignment 2
+Coming Soon 
+
 ## Lab Assignment
 
-* [Link][lab-03] to GitHub repository 
-* [Suggested Solutions][lab-03-s]
+Coming Soon 
+
+<!-- * [Link][lab-03] to GitHub repository  -->
+<!-- * [Suggested Solutions][lab-03-s] -->
 
 ## Additional Readings
 
