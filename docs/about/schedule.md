@@ -9,13 +9,13 @@
 
 ## Schedule
 
-| **Week** | **Video Lecture**      | **Computing Lecture**  | **Lab Section**                    | **Lab Assignment**            | **Due Dates**      |
-|----------|------------------------|------------------------|------------------------------------|-------------------------------|--------------------|
-| 0        |                        |                        | Using Git and R                    |                               |                    |
-| 1        | Social Media Landscape | Course Introduction    | Twitter API & Networks I           | Visualizing Social Media Data |                    |        
-| 2        | Regression & Causality |                        | Presentations & Lab Assign Review  |  Multiple Regression          |                    |
-| 3        | Online Reputation      | Text Analytics I       | Presentations & Lab Assign Review  |  Difference in Differences    |                    |
-| 4        | Word of Mouth          |                        | Presentations & Lab Assign Review  | Text Analytics & Fake Reviews | Group Tech Assign 1 |
-| 5        | Influencers            | Text Analytics II      | Presentations & Lab Assign Review  | Sentiment Analysis            |                    |
-| 6        | Viral Marketing        |                        | Presentations & Lab Assign Review  | Networks & Influence          |                    |
-| 7        | Social Advertising     | Networks II            | Presentations & Lab Assign Review  |  TBA                          | Group Tech Assign 2 |
+| Calendar Week | Video Lecture          | Computing Lecture             | Lab Section             | Lab Assignment                    | Due Dates          |
+|---------------|------------------------|-------------------------------|-------------------------|-----------------------------------|--------------------|
+| 15            | Social Media Landscape | -                             | Intro & Networks I      |                                   |                    |
+| 16            |  -                     | -                             |                         | Visualizing Social Media Data     |                    |
+| 17            | Regression & Causality | Regression & DiD              | Lurkers & Contributors  | Multiple Regression               |                    |
+| 18            | Online Reputation      | Intro to Text Analysis        | Online Reputation       | Difference in Differences         |                    |
+| 19            | Word of Mouth          | Sentiment Analysis            | Word of Mouth & Ratings | Text Analytics - Basics           | Group Assignment 1 |
+| 20            | Influencers            | Topic Modelling               | Influencers             | Sentiment Analysis & Topic Models |                    |
+| 21            | Viral Marketing        | Regression - Matching Methods | Viral Marketing         | Networks & Influence              |                    |
+| 22            | Social Advertising     | Networks II                   | Social Advertising      | -                                 | Group Assignment 2 |
