@@ -9,8 +9,7 @@
 *   Course: [Social Media and Web Analytics](https://catalogus.tilburguniversity.edu/osiris_student_tiuprd/OnderwijsCatalogusSelect.do?selectie=cursus&collegejaar=2022&taal=en&cursus=300459-M-6)
 *   Institute: TiSEM
 *   Current Version: [2022](https://tisem-digital-marketing.github.io/2023-smwa)
-
-Alternatively, email us at: tisem_social_media 'AT' gmail 'DOT' com
+* Contact: email us at: tisem_social_media 'AT' gmail 'DOT' com
 
 ## Building the Site
 
