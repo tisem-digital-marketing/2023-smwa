@@ -11,11 +11,11 @@
 
 | Calendar Week | Video Lecture          | Computing Lecture             | Lab Section             | Lab Assignment                    | Due Dates          |
 |---------------|------------------------|-------------------------------|-------------------------|-----------------------------------|--------------------|
-| 15            | Social Media Landscape | -                             | Intro & Networks I      |                                   |                    |
-| 16            |  -                     | -                             |                         | Visualizing Social Media Data     |                    |
-| 17            | Regression & Causality | Regression & DiD              | Lurkers & Contributors  | Multiple Regression               |                    |
-| 18            | Online Reputation      | Intro to Text Analysis        | Online Reputation       | Difference in Differences         |                    |
-| 19            | Word of Mouth          | Sentiment Analysis            | Word of Mouth & Ratings | Text Analytics - Basics           | Group Assignment 1 |
-| 20            | Influencers            | Topic Modelling               | Influencers             | Sentiment Analysis & Topic Models |                    |
-| 21            | Viral Marketing        | Regression - Matching Methods | Viral Marketing         | Networks & Influence              |                    |
-| 22            | Social Advertising     | Networks II                   | Social Advertising      | -                                 | Group Assignment 2 |
+| 15            | Social Media Landscape | Course Introduction           | Intro & Networks I      |                                   |                    |
+| 16            | Regression & Causality | -                             |                         | Visualizing Social Media Data     |                    |
+| 17            | Online Reputation      | Regression & DiD              | Lurkers & Contributors  | Multiple Regression               |                    |
+| 18            | Word of Mouth          | Regression & Matching Methods | Online Reputation       | Difference in Differences         |                    |
+| 19            | Influencers            | Intro to Text Analysis        | Word of Mouth & Ratings | Text Analytics - Basics           | Group Assignment 1 |
+| 20            | Viral Marketing        | Sentiment Analysis            | Influencers             | Sentiment Analysis & Topic Models |                    |
+| 21            | Social Advertising     | Topic Modelling               | Viral Marketing         | Networks & Influence              |                    |
+| 22            | TBA                    | Networks II                   | Social Advertising      | -                                 | Group Assignment 2 |
