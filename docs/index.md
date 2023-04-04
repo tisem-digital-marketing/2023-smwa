@@ -5,13 +5,13 @@ Welcome to the course website for **Social Media and Web Analytics** at TiSEM in
 This course introduces students to recent developments in the online marketing landscape - with an emphasis on social media and user generated content (UGC).
 
 
-!!! bug "Site Under Development"
+<!-- !!! bug "Site Under Development"
     
-    **Please check back in closer to April 10, 2023 to find the most up to date information.**
+    **Please check back in closer to April 10, 2023 to find the most up to date information.** -->
 
 ## Important Information
 
-:fontawesome-solid-building-columns: Coming Soon! <!---[Course Syllabus](assets/syllabus.pdf)--->
+:fontawesome-solid-building-columns: [Course Syllabus](assets/syllabus.pdf)
 
 :fontawesome-solid-info: [Course Objectives](about/course_objectives)
 
