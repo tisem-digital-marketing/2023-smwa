@@ -4,9 +4,9 @@ Important announcements will be posted here to avoid our inboxes getting clogged
 
 If you have questions - direct them to us via [Slack](https://tisem-smwa-2023.slack.com/). There's a 'Direct Message' feature so you can contact us individually as needed, but where possible post messages to a channel that all participants can see.
 
-<!---
+-
 !!! note "Welcome!"
-    *Date Posted: 2023-03-09*
+    *Date Posted: 2023-04-04*
 
     Welcome to the course "Social Media and Web Analytics."
 
@@ -14,7 +14,7 @@ If you have questions - direct them to us via [Slack](https://tisem-smwa-2023.sl
 
     We particularly draw your attention to the following:
 
-    * **[Pre-Course Survey](https://forms.gle/mJj3kEqPrxuFBxHT9)**.
+    * **[Pre-Course Survey](https://forms.gle/rxFYL7sgzqciD9DK6)**.
         * Please fill this out before the course begins.
 
     * **Choose a Lab Section**: Please use [Canvas](https://canvas.uvt.nl/) to sign up for a Lab Section. If you have not chosen one by Thursday of week 1 at 5pm CEST, the instructors will allocate you to a section randomly. If you are allocated, there is no opportunity to change sections.
@@ -27,13 +27,13 @@ If you have questions - direct them to us via [Slack](https://tisem-smwa-2023.sl
 
     To avoid clogging up everyone's inboxes with course email, all future important information will be posted on the course's [Announcements page](https://tisem-digital-marketing.github.io/2023-smwa/about/announcements) - be sure to check in there regularly. Smaller pieces of information and course chat will take place inside a chat environment, called [Slack](https://www.slack.com). Sign up to join the conversation [here](https://tisem-smwa-2023.slack.com/signup#/).
 
-    We look forward to seeing you at our kick off lecture on Tuesday April 11, at 10:45pm. 
+    We look forward to seeing you at our kick off lecture on Tuesday April 11, at 10:45am. 
 
     Best,
 
     Lachlan and Gijs
 
---->
+-
 
 <!-- HERE IS AN EXAMPLE NOTE BOX -->
 <!-- !!! note "YOUR NOTE NAME"

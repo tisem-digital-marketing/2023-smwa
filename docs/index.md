@@ -24,9 +24,9 @@ This course introduces students to recent developments in the online marketing l
 ## Pre-Course Survey
 
 We will post a short survey that we expect participants to complete closer to the course start date.
-<!-- Please fill out the pre-course survey before the first Lab Section (Thursday of Week 1).
+<!-- <!-- Please fill out the pre-course survey before the first Lab Section (Thursday of Week 1). -->
 
-:fontawesome-solid-square-poll-vertical: [Survey](https://forms.gle/mJj3kEqPrxuFBxHT9) -->
+:fontawesome-solid-square-poll-vertical: [Survey](hhttps://forms.gle/rxFYL7sgzqciD9DK6) -->
 
 ## Slack Chat
 
