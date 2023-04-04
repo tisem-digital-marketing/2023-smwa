@@ -21,14 +21,12 @@ This course introduces students to recent developments in the online marketing l
 
 :fontawesome-solid-bell: [Announcements](about/announcements)
 
-## Pre-Course Survey
+## :fontawesome-solid-square-poll-vertical: [Pre-Course Survey](https://forms.gle/rxFYL7sgzqciD9DK6)
 
 <!-- We will post a short survey that we expect participants to complete closer to the course start date. -->
-Please fill out the pre-course survey before the first class (Tuesday of Week 1)
+Please fill out the [pre-course survey](https://forms.gle/rxFYL7sgzqciD9DK6) before the first class (Tuesday of Week 1)
 
-:fontawesome-solid-square-poll-vertical: [Survey](hhttps://forms.gle/rxFYL7sgzqciD9DK6)
-
-## Slack Chat
+## :fontawesome-brands-slack: Slack Chat 
 
 Discussion with the instructors and with your peers will take place on the [Slack](https://slack.com/) messaging platform.
 

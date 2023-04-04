@@ -16,7 +16,7 @@ These notes provide the background reading to work through the Lab Assignment.
 ---> 
 
 ## Video Lectures
-
+Coming Soon
 <!-- :fontawesome-brands-youtube: [Videos](https://www.youtube.com/watch?v=g2eUMLYN2vo&list=PL9QkA7C7GRGWQZZNWS5rNMXJ3L_xxz5dH) -->
 
 <!-- Slides: -->
