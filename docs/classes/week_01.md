@@ -28,8 +28,7 @@ Coming Soon
 
 ## Live Lecture
 
-* Course Introduction ([slides][course-intro])
-    - To be posted closer to course start date
+:fontawesome-solid-file-pdf: [Slides][course-intro]
 
 ## Lab Section
 
