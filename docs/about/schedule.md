@@ -11,8 +11,8 @@
 
 | Calendar Week | Video Lecture          | Computing Lecture             | Lab Section             | Lab Assignment                    | Due Dates          |
 |---------------|------------------------|-------------------------------|-------------------------|-----------------------------------|--------------------|
-| 15            | Social Media Landscape | Course Introduction           | Intro & Networks I      |                                   |                    |
-| 16            | Regression & Causality | -                             |                         | Visualizing Social Media Data     |                    |
+| 15            | Social Media Landscape | Course Introduction           |      |                                   |                    |
+| 16            | Regression & Causality | -                             |  Intro & Networks I     | Visualizing Social Media Data     |                    |
 | 17            | Online Reputation      | Regression & DiD              | Lurkers & Contributors  | Multiple Regression               |                    |
 | 18            | Word of Mouth          | Regression & Matching Methods | Online Reputation       | Difference in Differences         |                    |
 | 19            | Influencers            | Intro to Text Analysis        | Word of Mouth & Ratings | Text Analytics - Basics           | Group Assignment 1 |
