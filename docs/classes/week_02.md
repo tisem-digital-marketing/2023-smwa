@@ -31,11 +31,21 @@ Coming Soon
 
 ## Lab Section
 
-Coming Soon.
+We'll cover the following:
+
+* Getting to know each other
+* Getting course material from GitHub
+* Visualizing Twitter Data <!---(GitHub repo [here][smwa-cl01]) --->
+    * Instructor Code (GitHub repo <!---[here][smwa-cl01-ans]) --->
 
 ## Lab Assignment
 
-Coming Soon 
+
+**Topic**: Collecting Social Media Data and Visualizing Social Media Networks
+
+* [PDF][lab-01-q]
+* [Link][lab-01-gh] to GitHub repo
+<!-- * [Suggested Solutions][lab-01-s] -->
 
 <!-- * [Link][lab-02] to GitHub repository 
     * Questions with an answer template contained in repo

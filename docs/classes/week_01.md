@@ -17,33 +17,26 @@ These notes provide the background reading to work through the Lab Assignment.
 
 ## Video Lectures
 
-Coming Soon
-<!---
-:fontawesome-brands-youtube: [Videos](https://www.youtube.com/watch?v=g2eUMLYN2vo&list=PL9QkA7C7GRGWQZZNWS5rNMXJ3L_xxz5dH)
+<!-- :fontawesome-brands-youtube: [Videos](https://www.youtube.com/watch?v=g2eUMLYN2vo&list=PL9QkA7C7GRGWQZZNWS5rNMXJ3L_xxz5dH) -->
 
-Slides:
+<!-- Slides: -->
 
-* [Weekly Overview][week-overview]
-* [Slides: Social Media Landscape][lecture-slides]
+<!-- * [Weekly Overview][week-overview] -->
+<!-- * [Slides: Social Media Landscape][lecture-slides] -->
 <!-- * Videos as a [playlist](https://www.youtube.com/watch?v=O5FwDo-tSgI&list=PL9QkA7C7GRGXIC43pkTWyfQKkgXChs2E_) -->
 <!-- * Watch the videos as a playlist, or individually: -->
 
 ## Live Lecture
 
-* Course Introduction <!---([slides][course-intro]) --->
+* Course Introduction ([slides][course-intro])
     - To be posted closer to course start date
 
 ## Lab Section
 
-We'll cover the following:
-
-* Getting to know each other
-* Getting course material from GitHub
-* Visualizing Twitter Data <!---(GitHub repo [here][smwa-cl01]) --->
-    * Instructor Code (GitHub repo <!---[here][smwa-cl01-ans]) --->
-
+None this week
 ## Lab Assignment
-Coming Soon
+
+* Familiarize yourself with R and Github [here](../../course_prep/software_install)
 
 <!-- 
 **Topic**: Collecting Social Media Data and Visualizing Social Media Networks
