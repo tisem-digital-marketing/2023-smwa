@@ -13,6 +13,10 @@ This course introduces students to recent developments in the online marketing l
 
 :fontawesome-solid-building-columns: [Course Syllabus](assets/syllabus.pdf)
 
+:fontawesome-regular-calendar: [Class Schedule](about/schedule)
+
+:fontawesome-solid-people-roof: [Class Room Location](https://rooster.uvt.nl/schedule)
+
 :fontawesome-solid-info: [Course Objectives](about/course_objectives)
 
 :fontawesome-solid-bell: [Announcements](about/announcements)
