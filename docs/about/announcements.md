@@ -17,8 +17,6 @@ If you have questions - direct them to us via [Slack](https://tisem-smwa-2023.sl
     * **[Pre-Course Survey](https://forms.gle/rxFYL7sgzqciD9DK6)**.
         * Please fill this out before the course begins.
 
-    * **Choose a Lab Section**: Please use [Canvas](https://canvas.uvt.nl/) to sign up for a Lab Section. If you have not chosen one by Thursday of week 1 at 5pm CEST, the instructors will allocate you to a section randomly. If you are allocated, there is no opportunity to change sections.
-
     * **Course Preparation**. We've provided some materials to help you install the required software and refresh your Git and R skills before starting the class. Check it out before the course begins.
 
     *  **Installation Guide**. Under the 'Course Preparation' menu, there are pages to walk you through the steps needed to install all the software for the course.
@@ -39,3 +37,6 @@ If you have questions - direct them to us via [Slack](https://tisem-smwa-2023.sl
 <!-- !!! note "YOUR NOTE NAME"
     *Date Posted: YOUR DATE*
     YOUR TEXT -->
+
+
+<!-- * **Choose a Lab Section**: Please use [Canvas](https://canvas.uvt.nl/) to sign up for a Lab Section. If you have not chosen one by Thursday of week 1 at 5pm CEST, the instructors will allocate you to a section randomly. If you are allocated, there is no opportunity to change sections. -->
