@@ -1,13 +1,14 @@
 # Causality and Difference in Differences
 
-## Required Readings & Lecture Notes.
+## Required Readings & Lecture Notes
 
 Parts of these readings and themes from them will be covered in the video lecture.
 
 * [Conducting Research with Quasi-Experiments: A Guide for Marketers][goldfarb-tucker]
     * In Section 3, only read 3.1
 
-We'll need some concepts from Linear Regression to work through the Lab & understand lecture content:
+We'll need some concepts from Linear Regression to work understand lecture content. 
+If you want to refresh your understanding, check these out:
 
 * Review of Basic Concepts: Chapters 3, 4, 5, 6 of [these notes](https://scpoecon.github.io/ScPoEconometrics/)
     * Based on the pre-course survey, many of you are already familiar with these concepts
@@ -27,7 +28,7 @@ Coming Soon
 
 ## Computing Lecture 
 
-Coming Soon
+None this week
 
 ## Lab Section
 
@@ -36,14 +37,25 @@ We'll cover the following:
 * Getting to know each other
 * Getting course material from GitHub
 * Visualizing Twitter Data <!---(GitHub repo [here][smwa-cl01]) --->
-    * Instructor Code (GitHub repo <!---[here][smwa-cl01-ans]) --->
+    <!-- * Instructor Code (GitHub repo) -[here][smwa-cl01-ans]) - -->
+
+
 
 ## Lab Assignment
 
+**Topic**: Visualizing Social Media Networks
 
-**Topic**: Collecting Social Media Data and Visualizing Social Media Networks
 
-* [PDF][lab-01-q]
+These notes provide the background reading to work through the Lab Assignment.
+
+* [A First Introduction to Networks with R][lecture-networks]
+    * [Dataset][lecture-networks-data]
+<!-- * [Introduction to the Twitter API and rtweet][lecture-rtweet] -->
+
+
+**Questions to work through:** 
+
+<!-- * [PDF][lab-01-q] -->
 * [Link][lab-01-gh] to GitHub repo
 <!-- * [Suggested Solutions][lab-01-s] -->
 
@@ -62,3 +74,9 @@ We'll cover the following:
 [lab-02]: https://github.com/tisem-digital-marketing/smwa-lab-02
 [lab-02-s]: ../assets/labs/lab-02_solution.pdf
 
+[lab-01-q]: ../assets/labs/lab-01_question.pdf
+[lab-01-gh]: https://github.com/tisem-digital-marketing/smwa-lab-01
+[lab-01-s]: ../assets/labs/lab-01_solution.pdf
+
+[lecture-networks]: ../assets/lectures/week-01/intro-networks.pdf
+[lecture-networks-data]: ../assets/lectures/week-01/networks-lecture-data.zip

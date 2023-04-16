@@ -8,10 +8,10 @@ Parts of these readings and themes from them will be covered in the video lectur
 * [Promotional reviews: An empirical investigation of online review manipulation](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2015.2304)
 * [Measuring and Managing the Externality of Managerial Responses to Online Customer Reviews][chen-etal]
 
-This book is a "go-to" for text analytics:
+<!-- This book is a "go-to" for text analytics:
 
 * [Tidy Text Mining with R][tidytext]
-    * Chapters 1, 2 and 3
+    * Chapters 1, 2 and 3 -->
 
 ## Video Lecture
 
