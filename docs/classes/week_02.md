@@ -11,19 +11,18 @@ We'll need some concepts from Linear Regression to work understand lecture conte
 If you want to refresh your understanding, check these out:
 
 * Review of Basic Concepts: Chapters 3, 4, 5, 6 of [these notes](https://scpoecon.github.io/ScPoEconometrics/)
-    * Based on the pre-course survey, many of you are already familiar with these concepts
 * Omitted Variables Bias (Chapter 7.5) and Panel Data (Chapter 12) of [these notes](https://scpoecon.github.io/ScPoEconometrics/)
 * [Getting Standard Errors Right][regression-errors]
 * [Linear Regression with `R`][regression-r]
 
 ## Video Lecture
 
-Coming Soon
+<!-- Coming Soon -->
 
-<!-- :fontawesome-brands-youtube: [Videos](https://www.youtube.com/watch?v=bRGQ-JeNz4w&list=PL9QkA7C7GRGX6llNC5XQmfa7IDAOZGrT3) -->
+:fontawesome-brands-youtube: [Videos](https://www.youtube.com/watch?v=lRQP68g4GFo&list=PL9QkA7C7GRGUpaABa4pFqLoabS-DPj5b_&pp=gAQBiAQB)
 
-<!-- * [Weekly Overview][week-overview]
-* [Slides: Causality and Difference in Differences][lecture-slides-02] -->
+* Weekly Overview (Coming Soon!) <!--[Weekly Overview][week-overview] -->
+* [Slides: Causality and Difference in Differences][lecture-slides-02]
 <!-- * Videos as a [playlist](https://www.youtube.com/watch?v=rgMEMeiGETk&list=PL9QkA7C7GRGWAnmrkW5cFjbN-kkqWuVrX) -->
 
 ## Computing Lecture 
