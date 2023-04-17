@@ -34,9 +34,9 @@ Please work through the following DataCamp Courses:
 
 ### RStudio Projects
 
-* [General Tips on working with R and RStudio](https://rstats.wtf/save-source.html)
+* [General Tips on working with R and RStudio](https://rstats.wtf/source-and-blank-slates.html)
 * [Using RStudio Projects](https://www.youtube.com/watch?v=hKoSJGWnFFA)
-* [Project Orientated Workflows](https://rstats.wtf/project-oriented-workflow.html)
+* [Project Orientated Workflows](https://rstats.wtf/projects.html)
 
 ### Working with Git and R
 
