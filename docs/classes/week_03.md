@@ -18,9 +18,8 @@ Parts of these readings and themes from them will be covered in the video lectur
 Coming Soon
 <!-- :fontawesome-brands-youtube: [Videos](https://www.youtube.com/watch?v=yAfmk5pdo3Y&list=PL9QkA7C7GRGWMs3VSegVwo1SriQ5NbrQ1) -->
 
-<!-- * [Weekly Overview][week-overview] -->
-<!-- * [Slides: Online Reputation][lecture-slides-03] -->
-<!---* Videos as a [playlist](https://www.youtube.com/watch?v=X4c4-v1ZMeE&list=PL9QkA7C7GRGVPT7CpH90Y8Om79iA26grc) -->
+* [Slides: Weekly Overview][week-overview]
+* [Slides: Online Reputation][lecture-slides-03]
 
 ## Computing Lecture
 
@@ -30,11 +29,15 @@ Coming Soon
 
 ## Lab Section
 
-Coming Soon 
+Marketing Analytics in the Wild
+
+> TikTok’s User Experience team is worried about the amount of lurkers on their platform and wants to design a new strategy to get them to engage with or post content. Propose a potential strategy that could lead to increases in either form of engagement by lurkers along with an empirical strategy to test whether the strategy is effective.
 
 ## Lab Assignment
 
-Coming Soon 
+* [Link][lab-02] to GitHub repository 
+    * Questions with an answer template contained in repo
+<!-- * [Partial Solutions][lab-02-s]  -->
 
 <!-- * [Link][lab-03] to GitHub repository  -->
 <!-- * [Suggested Solutions][lab-03-s] -->
@@ -59,6 +62,9 @@ These readings are optional, and designed to give interested students a place to
 [orm-cv]: https://pubsonline.informs.org/doi/abs/10.1287/mksc.2015.0912
 [chen-etal]: https://repository.arizona.edu/bitstream/handle/10150/632181/2%20ISR-MR-Paper.pdf?sequence=1
 [tidytext]: https://www.tidytextmining.com/
+
+[lab-02]: https://github.com/tisem-digital-marketing/smwa-lab-02
+[lab-02-s]: ../assets/labs/lab-02_solution.pdf
 
 [lab-03]: https://github.com/tisem-digital-marketing/smwa-lab-03
 [lab-03-s]: ../assets/labs/lab-03_solution.pdf

@@ -58,9 +58,6 @@ These notes provide the background reading to work through the Lab Assignment.
 * [Link][lab-01-gh] to GitHub repo
 <!-- * [Suggested Solutions][lab-01-s] -->
 
-<!-- * [Link][lab-02] to GitHub repository 
-    * Questions with an answer template contained in repo
-* [Partial Solutions][lab-02-s] -->
 
 [goldfarb-tucker]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2420920
 
@@ -69,9 +66,6 @@ These notes provide the background reading to work through the Lab Assignment.
 
 [lecture-slides-02]: ../assets/lectures/week-02/week-02-slides.pdf
 [week-overview]: ../assets/lectures/week-02/week-02-overview.pdf
-
-[lab-02]: https://github.com/tisem-digital-marketing/smwa-lab-02
-[lab-02-s]: ../assets/labs/lab-02_solution.pdf
 
 [lab-01-q]: ../assets/labs/lab-01_question.pdf
 [lab-01-gh]: https://github.com/tisem-digital-marketing/smwa-lab-01
