@@ -15,8 +15,7 @@ Parts of these readings and themes from them will be covered in the video lectur
 
 ## Video Lecture
 
-Coming Soon
-<!-- :fontawesome-brands-youtube: [Videos](https://www.youtube.com/watch?v=yAfmk5pdo3Y&list=PL9QkA7C7GRGWMs3VSegVwo1SriQ5NbrQ1) -->
+:fontawesome-brands-youtube: [Videos](https://www.youtube.com/watch?v=4Hxhtua6N_M&list=PL9QkA7C7GRGVradyo4SUbsCtn4sDiik37&pp=gAQBiAQB)
 
 * [Slides: Weekly Overview][week-overview]
 * [Slides: Online Reputation][lecture-slides-03]
@@ -29,9 +28,11 @@ Coming Soon
 
 ## Lab Section
 
-Marketing Analytics in the Wild
+* Marketing Analytics in the Wild
 
 > TikTok’s User Experience team is worried about the amount of lurkers on their platform and wants to design a new strategy to get them to engage with or post content. Propose a potential strategy that could lead to increases in either form of engagement by lurkers along with an empirical strategy to test whether the strategy is effective.
+
+* Discuss Solutions to Lab Assignment 1
 
 ## Lab Assignment
 
