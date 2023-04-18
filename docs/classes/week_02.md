@@ -21,7 +21,7 @@ If you want to refresh your understanding, check these out:
 
 :fontawesome-brands-youtube: [Videos](https://www.youtube.com/watch?v=lRQP68g4GFo&list=PL9QkA7C7GRGUpaABa4pFqLoabS-DPj5b_&pp=gAQBiAQB)
 
-* Weekly Overview (Coming Soon!) <!--[Weekly Overview][week-overview] -->
+* [Slides: Weekly Overview][week-overview]
 * [Slides: Causality and Difference in Differences][lecture-slides-02]
 <!-- * Videos as a [playlist](https://www.youtube.com/watch?v=rgMEMeiGETk&list=PL9QkA7C7GRGWAnmrkW5cFjbN-kkqWuVrX) -->
 
