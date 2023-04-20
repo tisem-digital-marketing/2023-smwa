@@ -38,6 +38,8 @@ We'll cover the following:
 * Visualizing Twitter Data <!---(GitHub repo [here][smwa-cl01]) --->
     <!-- * Instructor Code (GitHub repo) -[here][smwa-cl01-ans]) - -->
 
+* [Code from class](https://github.com/GijsvBussel/lab_section_1_twitter)
+  * [Intro to `rtweet`][lecture-rtweet]
 
 
 ## Lab Assignment
@@ -73,3 +75,4 @@ These notes provide the background reading to work through the Lab Assignment.
 
 [lecture-networks]: ../assets/lectures/week-01/intro-networks.pdf
 [lecture-networks-data]: ../assets/lectures/week-01/networks-lecture-data.zip
+[lecture-rtweet]: ../assets/lectures/week-01/intro-twitter-rtweet.pdf
