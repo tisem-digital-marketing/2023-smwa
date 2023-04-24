@@ -2,10 +2,10 @@
 
 ## Group Assignment 1
 
-* **Due Date**: May 13 at 23:59pm
+* **Due Date**: May 12 at 23:59pm
 * **Groups**: <!---See Canvas ---> Will be posted on Canvas
-<!-- * Assignment Link: [Click here](https://classroom.github.com/a/NYbftVQO) -->
-<!-- * Group leaders should accept the assignment and add their team members -->
+* Assignment Link: [Click here](https://classroom.github.com/a/2oa914sZ)
+* Group leaders should accept the assignment and add their team members
 <!-- * Assignment README documents how to do this. -->
 
 <!-- **Hints / Tips / Typos**:
