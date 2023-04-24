@@ -22,8 +22,8 @@ Parts of these readings and themes from them will be covered in the video lectur
 
 ## Computing Lecture
 
-Coming Soon 
-<!-- * Intro to Text Analytics ([Git Hub Repo][computing-lecture]) -->
+* Regression, Experiments and Difference in Differences 
+    * [Git Hub Repo][computing-lecture] with starter code
 <!-- * Code similar to what we did live in class [here][computing-lecture-solution] -->
 
 ## Lab Section
@@ -31,6 +31,8 @@ Coming Soon
 * Marketing Analytics in the Wild
 
 > TikTok’s User Experience team is worried about the amount of lurkers on their platform and wants to design a new strategy to get them to engage with or post content. Propose a potential strategy that could lead to increases in either form of engagement by lurkers along with an empirical strategy to test whether the strategy is effective.
+
+* [Answer Template](../assets/labs/maw_structured_answer.docx)
 
 * Discuss Solutions to Lab Assignment 1
 
@@ -71,5 +73,5 @@ These readings are optional, and designed to give interested students a place to
 [lab-03-s]: ../assets/labs/lab-03_solution.pdf
 [lecture-slides-03]: ../assets/lectures/week-03/week-03-slides.pdf
 [week-overview]: ../assets/lectures/week-03/week-03-overview.pdf
-[computing-lecture]: https://github.com/tisem-digital-marketing/smwa-computing-lecture-intro-text
-[computing-lecture-solution]: https://github.com/tisem-digital-marketing/smwa-computing-lecture-intro-text/tree/instructor
+[computing-lecture]: https://github.com/tisem-digital-marketing/smwa-computer-lecture-did
+[computing-lecture-solution]: https://github.com/tisem-digital-marketing/smwa-computer-lecture-did/instructor
