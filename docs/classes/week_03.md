@@ -24,7 +24,7 @@ Parts of these readings and themes from them will be covered in the video lectur
 
 * Regression, Experiments and Difference in Differences 
     * [Git Hub Repo][computing-lecture] with starter code
-<!-- * Code similar to what we did live in class [here][computing-lecture-solution] -->
+    * Code similar to what we did live in class [here][computing-lecture-solution]
 
 ## Lab Section
 
@@ -39,8 +39,8 @@ Parts of these readings and themes from them will be covered in the video lectur
 ## Lab Assignment
 
 * [Link][lab-02] to GitHub repository 
-    * Questions with an answer template contained in repo
-<!-- * [Partial Solutions][lab-02-s]  -->
+    <!-- * Questions with an answer template contained in repo -->
+    * [Partial Solutions][lab-02-s] 
 
 <!-- * [Link][lab-03] to GitHub repository  -->
 <!-- * [Suggested Solutions][lab-03-s] -->
@@ -74,4 +74,4 @@ These readings are optional, and designed to give interested students a place to
 [lecture-slides-03]: ../assets/lectures/week-03/week-03-slides.pdf
 [week-overview]: ../assets/lectures/week-03/week-03-overview.pdf
 [computing-lecture]: https://github.com/tisem-digital-marketing/smwa-computer-lecture-did
-[computing-lecture-solution]: https://github.com/tisem-digital-marketing/smwa-computer-lecture-did/instructor
+[computing-lecture-solution]: https://github.com/tisem-digital-marketing/smwa-computer-lecture-did/tree/instructor
