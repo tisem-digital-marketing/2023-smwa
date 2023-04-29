@@ -42,8 +42,6 @@ Parts of these readings and themes from them will be covered in the video lectur
     <!-- * Questions with an answer template contained in repo -->
     * [Partial Solutions][lab-02-s] 
 
-<!-- * [Link][lab-03] to GitHub repository  -->
-<!-- * [Suggested Solutions][lab-03-s] -->
 
 ## Additional Readings
 
@@ -69,8 +67,7 @@ These readings are optional, and designed to give interested students a place to
 [lab-02]: https://github.com/tisem-digital-marketing/smwa-lab-02
 [lab-02-s]: ../assets/labs/lab-02_solution.pdf
 
-[lab-03]: https://github.com/tisem-digital-marketing/smwa-lab-03
-[lab-03-s]: ../assets/labs/lab-03_solution.pdf
+
 [lecture-slides-03]: ../assets/lectures/week-03/week-03-slides.pdf
 [week-overview]: ../assets/lectures/week-03/week-03-overview.pdf
 [computing-lecture]: https://github.com/tisem-digital-marketing/smwa-computer-lecture-did
