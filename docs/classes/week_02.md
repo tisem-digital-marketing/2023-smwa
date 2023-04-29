@@ -58,7 +58,7 @@ These notes provide the background reading to work through the Lab Assignment.
 
 <!-- * [PDF][lab-01-q] -->
 * [Link][lab-01-gh] to GitHub repo
-<!-- * [Suggested Solutions][lab-01-s] -->
+* [Suggested Solutions][lab-01-s]
 
 
 [goldfarb-tucker]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2420920
