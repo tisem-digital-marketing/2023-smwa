@@ -28,13 +28,14 @@ Parts of these readings and themes from them will be covered in the video lectur
 
 > Bol.com’s Seller Experience team is looking to expand the number of third party vendors who sell on the site. One problem they are facing is that new vendors have less, and noisier reviews by consumers about their reputation. Propose a new strategy that they could adopt to help new seller’s reputations on Bol.com and an analytical framework that you could use to test whether this strategy is successful.
 
-* [Answer Template](../assets/labs/maw_structured_answer.docx)
+[Answer Template](../assets/labs/maw_structured_answer.docx)
+
 * Review of Lab Assignment 2
 
 ## Lab Assignment
 
 * [Link][lab-03] to GitHub repository 
-<!-- * [Suggested Solutions][lab-03-s] -->
+* [Suggested Solutions][lab-03-s]
 
 
 <!-- Coming Soon -->
