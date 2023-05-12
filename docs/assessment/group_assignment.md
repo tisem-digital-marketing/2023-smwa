@@ -20,7 +20,7 @@
 
 ## Group Assignment 2
 
-* **Due Date**: June 3 at 23:59pm
+* **Due Date**: June 2 at 23:59pm
 * **Groups**: <!---See Canvas ---> Will be posted on Canvas
 <!-- * Assignment Link: [Click here](https://classroom.github.com/a/sHJVOX2X) -->
 <!-- * Group leaders should accept the assignment and add their team members -->
