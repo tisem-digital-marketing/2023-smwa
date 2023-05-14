@@ -26,13 +26,11 @@ This book is a "go-to" for text analytics:
 ## Computing Lecture
 
 * Intro to Text Analytics ([Git Hub Repo][computing-lecture])
+    * [Instructor code](https://github.com/tisem-digital-marketing/smwa-computing-lecture-intro-text/tree/instructor)
 
 
-Coming Soon
+<!-- Coming Soon -->
 
-<!-- * Sentiment Analysis -->
-<!-- * Starting code: [here](https://github.com/tisem-digital-marketing/smwa-computing-lecture-text-sentiment) -->
-<!-- * Final code + extras: [here](https://github.com/tisem-digital-marketing/smwa-computing-lecture-text-sentiment/tree/instructor) -->
 
 ## Lab Section
 
@@ -50,18 +48,13 @@ Coming Soon
 
 <!-- Coming Soon -->
 * [Link][lab-04] to GitHub repository 
-<!-- * [Partial Solution][lab-04-s] -->
-
-<!-- * [Link][lab-05] to GitHub repository  -->
-<!-- * [Partial Solutions][lab-05-s] -->
+* [Partial Solution][lab-04-s]
 
 [aral]: https://static1.squarespace.com/static/5e680023bf798b61525c7831/t/5ed0fc2daa179d0d0a3bf5ed/1590754350409/identifying-influential-and-susceptible-members-of-social-networks.pdf
 [zhang]: https://journals.sagepub.com/doi/pdf/10.1177/0022242920985784
 [ershov]: https://www.dropbox.com/s/c6qn4us6gugwqqi/Influencers_ACM_EC_Website.pdf?dl=0
 [tidytext]: https://www.tidytextmining.com/
 
-<!-- [lab-05]: https://github.com/tisem-digital-marketing/smwa-lab-05 -->
-<!-- [lab-05-s]: ../assets/labs/lab-05_solution.pdf -->
 [lab-04]: https://github.com/tisem-digital-marketing/smwa-lab-04
 [lab-04-s]: ../assets/labs/lab-04_solution.pdf
 [lecture-slides-05]: ../assets/lectures/week-05/week-05-slides.pdf
