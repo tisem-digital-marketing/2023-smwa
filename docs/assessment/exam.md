@@ -26,4 +26,4 @@ The exam will be split into three components as follows:
     * No answers to the mock exam will be made available, since giving answers generally encourages "learning answers" rather than learning concepts.
     * We suggest forming study groups to talk over potential solutions among yourselves.
 
-[mock-exam]:  ../../assets/exam/2023_smwa_mock.pdf
+[mock-exam]:  ../assets/exam/2023_smwa_mock.pdf
