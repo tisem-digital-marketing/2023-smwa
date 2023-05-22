@@ -28,11 +28,7 @@ This book is a "go-to" for text analytics:
 **Topic: Sentiment Analysis**
 
 * Starter code: [here](https://github.com/tisem-digital-marketing/smwa-computing-lecture-text-sentiment)
-<!-- * Final code + extras: [here](https://github.com/tisem-digital-marketing/smwa-computing-lecture-text-sentiment/tree/instructor) -->
-
-<!-- * Topic Modeling -->
-<!-- * Starting code: [here](https://github.com/tisem-digital-marketing/smwa-computing-lecture-text-topics) -->
-<!-- * Final code + extras: [here](https://github.com/tisem-digital-marketing/smwa-computing-lecture-text-topics/tree/instructor) -->
+* Code from class: [here](https://github.com/tisem-digital-marketing/smwa-computing-lecture-text-sentiment/tree/instructor)
 
 ## Lab Section
 
@@ -50,10 +46,6 @@ This book is a "go-to" for text analytics:
 * Work through Exercise 1
 <!-- * [Partial Solutions][lab-05-s] -->
 
-<!-- Coming Soon -->
-
-<!-- * [Link][lab-06] to GitHub repository  -->
-<!-- * [Partial Solutions][lab-06-s] -->
 
 [tellis]: https://journals.sagepub.com/doi/10.1177/0022242919841034
 [borah]: https://journals.sagepub.com/doi/full/10.1177/0022242919899383
@@ -61,7 +53,6 @@ This book is a "go-to" for text analytics:
 
 [lab-05]: https://github.com/tisem-digital-marketing/smwa-lab-05
 [lab-05-s]: ../assets/labs/lab-05_solution.pdf
-<!-- [lab-06]: https://github.com/tisem-digital-marketing/smwa-lab-06 -->
-<!-- [lab-06-s]: ../assets/labs/lab-06_solution.pdf -->
+
 [lecture-slides-06]: ../assets/lectures/week-06/week-06-slides.pdf
 [week-overview]: ../assets/lectures/week-06/week-06-overview.pdf

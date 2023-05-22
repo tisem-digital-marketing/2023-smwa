@@ -8,40 +8,39 @@ Parts of these readings and themes from them will be covered in the video lectur
 * [Tweeting as a Marketing Tool: A Field Experiment in the TV Industry][gong]
 * [Can your advertising really buy earned impressions? The effect of brand advertising on word of mouth][lovett]
 
-For the computing lecture:
-
-* ['Centrality'][centrality], from Mark Hoffman's [Methods for Network Analysis][mna]
-* [Community Detection Algorithms][cda] by Thamindu Dilshan Jayawickrama
-* [Community Detectionw with Louvain and Infomap][cda2] by Statworx
-* [Networks: Descriptive Analysis][nda] by Pablo Barbera
-
-Note: codes from these readings may use different packages or software.
 
 ## Video Lecture
 
 <!-- :fontawesome-brands-youtube: [Videos](https://www.youtube.com/watch?v=voNtfUYblPk&list=PL9QkA7C7GRGX8Jz08HCs10shaj_Ui-zGa) -->
 
 <!-- * [Weekly Overview][week-overview] -->
-<!-- * [Slides][lecture-slides-07] -->
+* [Slides][lecture-slides-07]
 
 <!-- * [Slides][lecture-slides-07]
 * Videos as a [playlist](https://www.youtube.com/playlist?list=PL9QkA7C7GRGV7IX9hxDS_xYRDX4_4-QOg) -->
 
 ## Computer Lecture
 
-<!-- * Measuring Influence in a Network -->
-<!-- * Starting Code: [here](https://github.com/tisem-digital-marketing/smwa-computing-lecture-networks) -->
-<!-- * Instructor's code: [here](https://github.com/tisem-digital-marketing/smwa-computing-lecture-networks/tree/instructor) -->
-<!-- * Course Summary ([slides][course-summary]) -->
+**Topic Modeling**
+
+* Starter code: [here](https://github.com/tisem-digital-marketing/smwa-computing-lecture-text-topics)
+<!-- * Final code + extras: [here](https://github.com/tisem-digital-marketing/smwa-computing-lecture-text-topics/tree/instructor) -->
 
 ## Lab Section
 
+
+* Marketing Analytics in the Wild
+
+> Building on existing knowledge on improvised marketing interventions (IMI), the company ViralBrand has hired your team to develop an understanding about how and why IMI increases consumer brand engagement and perceptions. Develop a plan that allows you to investigate how IMI influences these key metrics and isolate what components of an IMI strategy are most effective.
+
 <!-- * Group Presentations -->
-<!-- * Review of Lab Assignment 6 -->
+* Review of Lab Assignment 5, Exercise 1
 
 ## Lab Assignment
 
-No new lab this week!
+* [Link][lab-05] to GitHub repository 
+* Work through Exercise 2
+<!-- * [Partial Solutions][lab-05-s] -->
 
 [gordon]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3033144
 [gong]: https://dspace.mit.edu/handle/1721.1/120756
@@ -57,3 +56,6 @@ No new lab this week!
 [cda2]: https://www.statworx.com/en/content-hub/blog/community-detection-with-louvain-and-infomap/
 [nda]: http://pablobarbera.com/big-data-upf/html/02b-networks-descriptive-analysis.html
 [asnar]: https://gvegayon.github.io/appliedsnar/
+
+[lab-05]: https://github.com/tisem-digital-marketing/smwa-lab-05
+[lab-05-s]: ../assets/labs/lab-05_solution.pdf
