@@ -9,6 +9,13 @@ Parts of these readings and themes from them will be covered in the video lectur
 * [Can your advertising really buy earned impressions? The effect of brand advertising on word of mouth][lovett]
 
 
+For the computer lecture: 
+
+* [Tidy Text Mining with R][tidytext]
+    * Chapter 6
+* [Structural Topic Modelling][stm] 
+  * Don't focus on the technical details
+
 ## Video Lecture
 
 :fontawesome-brands-youtube: [Videos](https://www.youtube.com/watch?v=_rUij0kXjbs&list=PL9QkA7C7GRGWyHY4d9qT_VkIzXaVGmAFz&pp=gAQBiAQB)
@@ -59,3 +66,5 @@ Parts of these readings and themes from them will be covered in the video lectur
 
 [lab-05]: https://github.com/tisem-digital-marketing/smwa-lab-05
 [lab-05-s]: ../assets/labs/lab-05_solution.pdf
+[tidytext]: https://www.tidytextmining.com/
+[stm]: https://github.com/bstewart/stm/blob/master/vignettes/stmVignette.pdf?raw=true

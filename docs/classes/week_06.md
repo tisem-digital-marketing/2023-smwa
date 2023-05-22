@@ -7,10 +7,10 @@ Parts of these readings and themes from them will be covered in the video lectur
 * [What Drives Virality (Sharing) of Online Digital Content? The Critical Role of Information, Emotion, and Brand Prominence][tellis]
 * [Improvised Marketing Interventions in Social Media][borah]
 
-This book is a "go-to" for text analytics:
 
 * [Tidy Text Mining with R][tidytext]
     * Chapter 2
+* [VADER lexicon][vader] 
 
 ## Video Lecture
 
@@ -49,6 +49,7 @@ This book is a "go-to" for text analytics:
 [tellis]: https://journals.sagepub.com/doi/10.1177/0022242919841034
 [borah]: https://journals.sagepub.com/doi/full/10.1177/0022242919899383
 [tidytext]: https://www.tidytextmining.com/
+[vader]: https://ojs.aaai.org/index.php/ICWSM/article/view/14550/14399
 
 [lab-05]: https://github.com/tisem-digital-marketing/smwa-lab-05
 [lab-05-s]: ../assets/labs/lab-05_solution.pdf
