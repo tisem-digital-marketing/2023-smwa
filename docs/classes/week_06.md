@@ -18,10 +18,9 @@ This book is a "go-to" for text analytics:
 
 :fontawesome-brands-youtube: [Videos](https://www.youtube.com/watch?v=iBe_rbkRxxc&list=PL9QkA7C7GRGXqPIAVYPRFHL49jTrbZkXg&pp=gAQBiAQB)
 
-<!-- * [Weekly Overview][week-overview] -->
+* [Weekly Overview][week-overview]
 * [Slides][lecture-slides-06]
-<!-- * Videos coming Tuesday -->
-<!-- * Videos as a [playlist](https://www.youtube.com/playlist?list=PL9QkA7C7GRGXgdNurrsgBJwyY8d91PaMy) -->
+
 
 ## Computing Lecture
 
