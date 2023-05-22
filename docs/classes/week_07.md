@@ -11,9 +11,9 @@ Parts of these readings and themes from them will be covered in the video lectur
 
 ## Video Lecture
 
-<!-- :fontawesome-brands-youtube: [Videos](https://www.youtube.com/watch?v=voNtfUYblPk&list=PL9QkA7C7GRGX8Jz08HCs10shaj_Ui-zGa) -->
+:fontawesome-brands-youtube: [Videos](https://www.youtube.com/watch?v=_rUij0kXjbs&list=PL9QkA7C7GRGWyHY4d9qT_VkIzXaVGmAFz&pp=gAQBiAQB)
 
-<!-- * [Weekly Overview][week-overview] -->
+* [Weekly Overview][week-overview]
 * [Slides][lecture-slides-07]
 
 <!-- * [Slides][lecture-slides-07]

@@ -16,7 +16,7 @@ This book is a "go-to" for text analytics:
 
 <!-- Coming Soon -->
 
-:fontawesome-brands-youtube: [Videos](https://www.youtube.com/watch?v=iBe_rbkRxxc&list=PL9QkA7C7GRGXqPIAVYPRFHL49jTrbZkXg&pp=gAQBiAQB)
+:fontawesome-brands-youtube: [Videos](https://www.youtube.com/watch?v=w57JSdIBQhs&list=PL9QkA7C7GRGXqPIAVYPRFHL49jTrbZkXg&pp=gAQBiAQB)
 
 * [Weekly Overview][week-overview]
 * [Slides][lecture-slides-06]
