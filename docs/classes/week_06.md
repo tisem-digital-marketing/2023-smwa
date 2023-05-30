@@ -43,7 +43,7 @@ Parts of these readings and themes from them will be covered in the video lectur
 
 * [Link][lab-05] to GitHub repository 
 * Work through Exercise 1
-<!-- * [Partial Solutions][lab-05-s] -->
+* [Partial Solutions][lab-05-s]
 
 
 [tellis]: https://journals.sagepub.com/doi/10.1177/0022242919841034

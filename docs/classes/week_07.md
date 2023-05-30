@@ -31,7 +31,7 @@ For the computer lecture:
 **Topic Modeling**
 
 * Starter code: [here](https://github.com/tisem-digital-marketing/smwa-computing-lecture-text-topics)
-<!-- * Final code + extras: [here](https://github.com/tisem-digital-marketing/smwa-computing-lecture-text-topics/tree/instructor) -->
+* Final code + extras: [here](https://github.com/tisem-digital-marketing/smwa-computing-lecture-text-topics/tree/instructor)
 
 ## Lab Section
 
@@ -47,7 +47,7 @@ For the computer lecture:
 
 * [Link][lab-05] to GitHub repository 
 * Work through Exercise 2
-<!-- * [Partial Solutions][lab-05-s] -->
+* [Partial Solutions][lab-05-s]
 
 [gordon]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3033144
 [gong]: https://dspace.mit.edu/handle/1721.1/120756
